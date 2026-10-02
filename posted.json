@@ -1,1 +1,53 @@
-{"posts": [], "next_slot": 0}
+{
+ "posts": [
+  {
+   "title": "G7 Oil Reserve Release: Trump Diesel Threat Triggers 100m Barrel Deal",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/g7-oil-reserve-release-trump-diesel.html",
+   "time": 1790973238,
+   "links": [
+    "https://www.abc.net.au/news/2026-10-03/g7-to-release-100m-barrels-oil-in-bid-to-curb-soaring-prices/107224282",
+    "https://www.theguardian.com/business/2026/oct/02/g7-release-barrels-oil-diesel-reserves-emergency",
+    "https://www.pbs.org/newshour/world/g7-nations-agree-to-release-100-million-barrels-of-oil-including-diesel",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/g7-plans-oil-and-diesel-supply-offers-100-million-barrels-macron-says",
+    "https://www.aljazeera.com/news/2026/10/2/trump-says-europe-agrees-to-release-massive-amount-diesel-stockpile?traffic_source=rss",
+    "https://www.france24.com/en/europe/20261002-eu-fully-rejects-us-threat-to-ban-diesel-exports-unless-bloc-releases-more-fuel-stocks"
+   ],
+   "source_titles": [
+    "G7 to release 100 million barrels of oil in bid to curb soaring prices",
+    "G7 to release up to 100m barrels of emergency oil and diesel reserves",
+    "G7 nations agree to release 100 million barrels of oil, including diesel",
+    "G7 to release up to 100m barrels of oil and diesel from reserves, Macron says",
+    "G7 to release 100m oil barrels as Trump hails Europe diesel deal",
+    "G7 members will release 100 million barrels of diesel after US threatens export ban"
+   ],
+   "topic": [
+    "100",
+    "100m",
+    "agree",
+    "ban",
+    "barrels",
+    "bid",
+    "curb",
+    "deal",
+    "diesel",
+    "emergency",
+    "europe",
+    "export",
+    "hails",
+    "including",
+    "macron",
+    "members",
+    "million",
+    "nations",
+    "oil",
+    "prices",
+    "release",
+    "reserves",
+    "soaring",
+    "threatens",
+    "trump"
+   ]
+  }
+ ],
+ "next_slot": 1790976639.308999
+}
