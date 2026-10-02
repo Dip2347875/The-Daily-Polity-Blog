@@ -1,6 +1,5 @@
 requests
 feedparser
 beautifulsoup4
-lxml
 trafilatura
 pillow
