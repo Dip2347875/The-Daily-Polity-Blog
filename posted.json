@@ -105,7 +105,43 @@
     "swiss",
     "switzerland's"
    ]
+  },
+  {
+   "title": "North Korea Ballistic Missile Launch Escalates Tensions Amid Landmine Dispute",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/north-korea-ballistic-missile-launch.html",
+   "time": 1790986615,
+   "links": [
+    "https://www.aljazeera.com/news/2026/10/2/north-korea-fires-ballistic-missile-towards-the-sea-south-korea-says?traffic_source=rss",
+    "https://www.dw.com/en/north-korea-fires-ballistic-missile-into-sea-seoul-says/a-79526243?maca=en-rss-en-all-1573-xml-mrss",
+    "https://www.japantimes.co.jp/news/2026/10/03/japan/north-korea-missile-october-3/",
+    "https://www.dw.com/en/ukraine-south-korea-clash-over-transfer-of-2-north-korean-prisoners/a-79508601?maca=en-rss-en-all-1573-xml-mrss"
+   ],
+   "source_titles": [
+    "North Korea fires ballistic missile towards the sea, South Korea says",
+    "North Korea fires ballistic missile into sea, Seoul says",
+    "North Korea fires off ballistic missile amid landmine row with South",
+    "Ukraine, South Korea clash over transfer of 2 North Korean prisoners"
+   ],
+   "topic": [
+    "ballistic",
+    "clash",
+    "fires",
+    "korea",
+    "korean",
+    "landmine",
+    "missile",
+    "north",
+    "off",
+    "prisoners",
+    "row",
+    "sea",
+    "seoul",
+    "south",
+    "towards",
+    "transfer",
+    "ukraine"
+   ]
   }
  ],
- "next_slot": 1790983839.308999
+ "next_slot": 1790987439.308999
 }
