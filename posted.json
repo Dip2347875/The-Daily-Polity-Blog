@@ -225,7 +225,43 @@
     "three",
     "two"
    ]
+  },
+  {
+   "title": "Gaza Airstrike Kills Five Civilians in Residential Attack",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/gaza-airstrike-kills-five-civilians-in.html",
+   "time": 1791006031,
+   "links": [
+    "https://www.aljazeera.com/news/2026/10/3/israeli-air-attack-on-gaza-city-apartment-kills-at-least-five?traffic_source=rss",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/death-toll-israeli-strike-gaza-apartment-rises-five-report-says",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/israeli-strike-gaza-apartment-complex-kills-palestinian",
+    "https://www.straitstimes.com/world/middle-east/israeli-strike-kills-four-people-in-gaza-medics-say"
+   ],
+   "source_titles": [
+    "Israeli air attack on Gaza City apartment kills at least five",
+    "Death toll from Israeli strike on Gaza apartment rises to five, report says",
+    "Israeli strike on Gaza apartment complex kills four Palestinians",
+    "Israeli strike kills four people in Gaza, medics say"
+   ],
+   "topic": [
+    "air",
+    "apartment",
+    "attack",
+    "city",
+    "complex",
+    "death",
+    "five",
+    "four",
+    "gaza",
+    "israeli",
+    "kills",
+    "least",
+    "medics",
+    "palestinians",
+    "rises",
+    "strike",
+    "toll"
+   ]
   }
  ],
- "next_slot": 1790998239.308999
+ "next_slot": 1791001839.308999
 }
