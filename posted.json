@@ -652,7 +652,50 @@
     "stake",
     "what"
    ]
+  },
+  {
+   "title": "Russia Warns Diplomats Leave Kyiv: What 3 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/russia-warns-diplomats-leave-kyiv-what.html",
+   "time": 1791051873,
+   "links": [
+    "https://timesofindia.indiatimes.com/world/europe/mortal-danger-russia-warns-diplomats-to-leave-kyiv-as-fresh-strikes-kill-6-across-ukraine/articleshow/134660992.cms",
+    "https://www.straitstimes.com/world/europe/russia-pledges-to-continue-massive-strikes-on-kyiv-urges-foreign-diplomats-to-leave-city",
+    "https://www.straitstimes.com/world/europe/russia-warns-diplomats-foreigners-to-leave-kyiv-over-strike-threat",
+    "https://www.euronews.com/2026/10/02/russia-tearing-kyiv-apart-mayor-says-as-strikes-paralyse-traffic"
+   ],
+   "source_titles": [
+    "'Mortal danger': Russia warns diplomats to leave Kyiv as strikes kill 6 in Ukraine",
+    "Russia pledges to continue massive strikes on Kyiv, urges foreign diplomats to leave city",
+    "Russia warns diplomats, foreigners to leave Kyiv over strike threat",
+    "Russia 'tearing Kyiv apart', mayor says, as strikes paralyse traffic"
+   ],
+   "topic": [
+    "'mortal",
+    "'tearing",
+    "apart'",
+    "city",
+    "continue",
+    "danger'",
+    "diplomats",
+    "foreign",
+    "foreigners",
+    "kill",
+    "kyiv",
+    "leave",
+    "massive",
+    "mayor",
+    "paralyse",
+    "pledges",
+    "russia",
+    "strike",
+    "strikes",
+    "threat",
+    "traffic",
+    "ukraine",
+    "urges",
+    "warns"
+   ]
   }
  ],
- "next_slot": 1791045039.308999
+ "next_slot": 1791048639.308999
 }
