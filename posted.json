@@ -695,7 +695,35 @@
     "urges",
     "warns"
    ]
+  },
+  {
+   "title": "Russia Turns Striking Bridges: What 2 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/russia-turns-striking-bridges-what-2.html",
+   "time": 1791051967,
+   "links": [
+    "https://www.nytimes.com/2026/10/03/world/europe/russia-ukraine-bridges-kyiv.html",
+    "https://www.dw.com/en/ukraine-to-step-up-oil-attacks-as-russia-hits-kyiv-bridges/a-79527753?maca=en-rss-en-all-1573-xml-mrss"
+   ],
+   "source_titles": [
+    "Russia Turns to Striking Kyiv’s Bridges, Threatening a Vital Lifeline",
+    "Ukraine to step up oil attacks as Russia hits Kyiv bridges"
+   ],
+   "topic": [
+    "attacks",
+    "bridges",
+    "hits",
+    "kyiv",
+    "lifeline",
+    "oil",
+    "russia",
+    "step",
+    "striking",
+    "threatening",
+    "turns",
+    "ukraine",
+    "vital"
+   ]
   }
  ],
- "next_slot": 1791048639.308999
+ "next_slot": 1791052239.308999
 }
