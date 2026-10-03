@@ -528,7 +528,41 @@
     "tens",
     "thousands"
    ]
+  },
+  {
+   "title": "Fresh Protests Housing Spain: What 3 Major News Outlets Report (Oct 03)",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/fresh-protests-housing-spain-what-3.html",
+   "time": 1791038912,
+   "links": [
+    "https://www.france24.com/en/europe/20261003-fresh-protests-over-housing-flare-spain-after-lawmakers-reject-relief-measures",
+    "https://www.euronews.com/2026/10/03/spain-faces-housing-protests-in-more-than-50-cities-after-parliament-rejects-tenant-protec",
+    "https://www.lemonde.fr/en/international/article/2026/10/02/spanish-lawmakers-reject-housing-bills-amid-protests_6758190_4.html"
+   ],
+   "source_titles": [
+    "Fresh protests over housing flare in Spain after lawmakers reject relief measures",
+    "Spain faces housing protests in more than 50 cities after parliament rejects tenant protections",
+    "Spanish lawmakers reject housing bills amid protests"
+   ],
+   "topic": [
+    "bills",
+    "cities",
+    "faces",
+    "flare",
+    "fresh",
+    "housing",
+    "lawmakers",
+    "measures",
+    "parliament",
+    "protections",
+    "protests",
+    "reject",
+    "rejects",
+    "relief",
+    "spain",
+    "spanish",
+    "tenant"
+   ]
   }
  ],
- "next_slot": 1791030639.308999
+ "next_slot": 1791034239.308999
 }
