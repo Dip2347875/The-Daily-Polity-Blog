@@ -562,7 +562,37 @@
     "spanish",
     "tenant"
    ]
+  },
+  {
+   "title": "Army Claims 540 Houthi Casualties: What 2 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/army-claims-540-houthi-casualties-what.html",
+   "time": 1791039005,
+   "links": [
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+    "https://www.middleeasteye.net/news/yemen-army-claims-1540-houthi-casualties-fighting-intensifies-taiz",
+    "https://www.aljazeera.com/news/2026/10/3/over-1500-houthi-casualties-in-past-24-hours-yemeni-army-says?traffic_source=rss"
+   ],
+   "source_titles": [
+    "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+    "Yemeni army claims 1,540 Houthi casualties as fighting intensifies in Taiz",
+    "Yemen’s army claims over 1,500 Houthi casualties, attacks Sanaa"
+   ],
+   "topic": [
+    "500",
+    "540",
+    "army",
+    "attacks",
+    "casualties",
+    "claims",
+    "fighting",
+    "houthi",
+    "intensifies",
+    "sanaa",
+    "taiz",
+    "yemen",
+    "yemeni"
+   ]
   }
  ],
- "next_slot": 1791034239.308999
+ "next_slot": 1791037839.308999
 }
