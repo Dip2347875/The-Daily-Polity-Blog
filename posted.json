@@ -1606,7 +1606,38 @@
     "victory",
     "vote"
    ]
+  },
+  {
+   "title": "Bombers British Base Targeted: What 2 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/bombers-british-base-targeted-what-2.html",
+   "time": 1791151087,
+   "links": [
+    "https://www.pbs.org/newshour/world/ap-report-u-s-air-force-removes-all-bombers-from-british-air-base-targeted-by-a-suspected-terror-attack",
+    "https://www.theguardian.com/us-news/2026/oct/04/us-bombers-sent-home-from-raf-fairford-base-after-suspected-bomb-plot"
+   ],
+   "source_titles": [
+    "AP report: U.S. Air Force removes all bombers from British air base targeted by a suspected terror attack",
+    "US bombers sent home from RAF Fairford base after suspected terror plot"
+   ],
+   "topic": [
+    "air",
+    "all",
+    "attack",
+    "base",
+    "bombers",
+    "british",
+    "fairford",
+    "force",
+    "home",
+    "plot",
+    "raf",
+    "removes",
+    "sent",
+    "suspected",
+    "targeted",
+    "terror"
+   ]
   }
  ],
- "next_slot": 1791145839.308999
+ "next_slot": 1791149439.308999
 }
