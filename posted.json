@@ -1101,7 +1101,35 @@
     "wartime",
     "world"
    ]
+  },
+  {
+   "title": "Latvian Track Lead Coalition: What 2 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/latvian-track-lead-coalition-what-2.html",
+   "time": 1791110325,
+   "links": [
+    "https://www.straitstimes.com/world/europe/latvian-pm-on-track-to-lead-pro-ukraine-coalition-after-election-win",
+    "https://www.lemonde.fr/en/international/article/2026/10/04/latvian-partial-election-results-suggest-pro-european-choice_6758227_4.html"
+   ],
+   "source_titles": [
+    "Latvian PM on track to lead pro-Ukraine coalition after election win",
+    "Latvian partial election results suggest pro-European choice"
+   ],
+   "topic": [
+    "choice",
+    "coalition",
+    "election",
+    "european",
+    "latvian",
+    "lead",
+    "partial",
+    "pro",
+    "results",
+    "suggest",
+    "track",
+    "ukraine",
+    "win"
+   ]
   }
  ],
- "next_slot": 1791099039.308999
+ "next_slot": 1791102639.308999
 }
