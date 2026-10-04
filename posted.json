@@ -886,7 +886,35 @@
     "shot",
     "why"
    ]
+  },
+  {
+   "title": "Tigray Conflict: Ethiopia Recaptures Airport, Regional Tensions Rise",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/tigray-conflict-ethiopia-recaptures.html",
+   "time": 1791086718,
+   "links": [
+    "https://www.dw.com/en/in-tigray-ethiopian-government-forces-have-advanced-against-a-northern-rebel-group-reports-indicate/a-79534372?maca=en-rss-en-all-1573-xml-mrss",
+    "https://www.aljazeera.com/video/newsfeed/2026/10/4/ethiopian-government-troops-seize-tigrays-capital-mekelle?traffic_source=rss"
+   ],
+   "source_titles": [
+    "In Tigray, Ethiopian government forces have advanced against a northern rebel group, reports indicate",
+    "Ethiopian government troops seize Tigray’s capital Mekelle"
+   ],
+   "topic": [
+    "advanced",
+    "against",
+    "capital",
+    "ethiopian",
+    "forces",
+    "group",
+    "indicate",
+    "mekelle",
+    "northern",
+    "rebel",
+    "seize",
+    "tigray",
+    "troops"
+   ]
   }
  ],
- "next_slot": 1791073839.308999
+ "next_slot": 1791077439.308999
 }
