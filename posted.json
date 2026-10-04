@@ -1245,7 +1245,46 @@
     "vows",
     "warns"
    ]
+  },
+  {
+   "title": "Yemen Military Campaign Escalates as Government Targets Houthi Territory",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/yemen-military-campaign-escalates-as.html",
+   "time": 1791129864,
+   "links": [
+    "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
+    "https://www.straitstimes.com/world/middle-east/yemen-leader-announces-major-military-operations-against-iran-backed-houthis",
+    "https://www.aljazeera.com/news/2026/10/4/yemens-leader-announces-military-operation-to-retake-houthi-held-territory?traffic_source=rss",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemeni-government-launch-military-campaign-reclaim-houthi-controlled"
+   ],
+   "source_titles": [
+    "Yemen announces military campaign to reclaim land from Iran-backed Houthis",
+    "Yemen leader announces major military operations against Iran-backed Houthis",
+    "Yemen’s leader announces military operation to retake Houthi-held territory",
+    "Yemeni government to launch military campaign to reclaim Houthi-controlled territory"
+   ],
+   "topic": [
+    "against",
+    "announces",
+    "backed",
+    "campaign",
+    "controlled",
+    "held",
+    "houthi",
+    "houthis",
+    "iran",
+    "land",
+    "launch",
+    "major",
+    "military",
+    "operation",
+    "operations",
+    "reclaim",
+    "retake",
+    "territory",
+    "yemen",
+    "yemeni"
+   ]
   }
  ],
- "next_slot": 1791113439.308999
+ "next_slot": 1791117039.308999
 }
