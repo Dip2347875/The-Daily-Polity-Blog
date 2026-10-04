@@ -1381,7 +1381,47 @@
     "vote",
     "voting"
    ]
+  },
+  {
+   "title": "Trump Names National Intelligence: What 4 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/trump-names-national-intelligence-what.html",
+   "time": 1791139459,
+   "links": [
+    "https://www.npr.org/2026/10/04/nx-s1-5990781/jay-clayton-ai-czar-trump",
+    "https://www.pbs.org/newshour/politics/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force",
+    "https://thehill.com/homenews/administration/6128176-trump-creates-super-intelligence-force/",
+    "https://www.dw.com/en/trump-names-ai-czar-to-head-white-house-task-force/a-79537966?maca=en-rss-en-all-1573-xml-mrss"
+   ],
+   "source_titles": [
+    "Trump names national intelligence chief Jay Clayton as new AI czar",
+    "Trump names national intelligence director Jay Clayton to lead a new federal AI task force",
+    "Trump announces 'Super Intelligence Force' led by DNI Jay Clayton",
+    "Trump names AI czar to head White House task force"
+   ],
+   "topic": [
+    "'super",
+    "announces",
+    "chief",
+    "clayton",
+    "czar",
+    "director",
+    "dni",
+    "federal",
+    "force",
+    "force'",
+    "head",
+    "house",
+    "intelligence",
+    "jay",
+    "lead",
+    "led",
+    "names",
+    "national",
+    "task",
+    "trump",
+    "white"
+   ]
   }
  ],
- "next_slot": 1791124239.308999
+ "next_slot": 1791127839.308999
 }
