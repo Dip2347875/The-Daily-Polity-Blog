@@ -1827,7 +1827,34 @@
     "silence",
     "transparency"
    ]
+  },
+  {
+   "title": "Netanyahu Orders Security Review: What 3 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/netanyahu-orders-security-review-what-3.html",
+   "time": 1791180048,
+   "links": [
+    "https://www.japantimes.co.jp/news/2026/10/05/world/israel-flight-security-flydubai-attack/",
+    "https://www.straitstimes.com/world/middle-east/netanyahu-orders-security-review-of-flights-to-israel-after-flydubai-attack",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/netanyahu-orders-security-review-international-flights-israel-after"
+   ],
+   "source_titles": [
+    "Netanyahu orders security review of flights to Israel after Flydubai attack",
+    "Netanyahu orders security review of flights to Israel after flydubai attack",
+    "Netanyahu orders security review of international flights to Israel after Flydubai incident"
+   ],
+   "topic": [
+    "attack",
+    "flights",
+    "flydubai",
+    "incident",
+    "international",
+    "israel",
+    "netanyahu",
+    "orders",
+    "review",
+    "security"
+   ]
   }
  ],
- "next_slot": 1791171039.308999
+ "next_slot": 1791174639.308999
 }
