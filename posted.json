@@ -2061,7 +2061,36 @@
     "safe",
     "withdraws"
    ]
+  },
+  {
+   "title": "Yemen Launches Major Operation: What 3 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/yemen-launches-major-operation-what-3.html",
+   "time": 1791205786,
+   "links": [
+    "https://www.dw.com/en/yemen-launches-major-military-operation-against-houthis/a-79542723?maca=en-rss-en-all-1573-xml-mrss",
+    "https://www.middleeasteye.net/live-blog/live-blog-update/yemens-government-calls-international-support-against-houthis",
+    "https://www.abc.net.au/news/2026-10-05/yemeni-government-launches-offensive-to-seize-all-areas-from-ira/107228550"
+   ],
+   "source_titles": [
+    "Yemen launches major military operation against Houthis",
+    "Yemen’s government calls for international support against Houthis",
+    "Yemen's government declares major operation against Houthis"
+   ],
+   "topic": [
+    "against",
+    "calls",
+    "declares",
+    "houthis",
+    "international",
+    "launches",
+    "major",
+    "military",
+    "operation",
+    "support",
+    "yemen",
+    "yemen's"
+   ]
   }
  ],
- "next_slot": 1791196239.308999
+ "next_slot": 1791199839.308999
 }
