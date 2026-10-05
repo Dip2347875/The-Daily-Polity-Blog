@@ -2206,7 +2206,39 @@
     "why",
     "yemen"
    ]
+  },
+  {
+   "title": "Nigeria Military Helicopter Crashes: What 4 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/nigeria-military-helicopter-crashes.html",
+   "time": 1791234887,
+   "links": [
+    "https://www.nytimes.com/2026/10/05/world/africa/nigeria-military-aircraft-crash.html",
+    "https://www.aljazeera.com/news/2026/10/5/nigeria-launches-rescue-after-military-plane-crashes-with-32-aboard?traffic_source=rss",
+    "https://www.independent.co.uk/news/world/africa/nigeria-lagos-aircraft-crash-military-b3061622.html",
+    "https://www.dw.com/en/military-aircraft-with-32-people-on-board-crashes-in-southern-nigeria/a-79552403?maca=en-rss-en-all-1573-xml-mrss"
+   ],
+   "source_titles": [
+    "Nigeria Military Helicopter Crashes With 32 Onboard",
+    "Nigeria launches rescue after military plane crashes with 32 aboard",
+    "Military aircraft carrying 32 people crashes in southern Nigeria",
+    "Military aircraft with 32 people on board crashes in southern Nigeria"
+   ],
+   "topic": [
+    "aboard",
+    "aircraft",
+    "board",
+    "carrying",
+    "crashes",
+    "helicopter",
+    "launches",
+    "military",
+    "nigeria",
+    "onboard",
+    "plane",
+    "rescue",
+    "southern"
+   ]
   }
  ],
- "next_slot": 1791210639.308999
+ "next_slot": 1791214239.308999
 }
