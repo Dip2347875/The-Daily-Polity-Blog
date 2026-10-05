@@ -2328,7 +2328,40 @@
     "yemen's",
     "yemeni"
    ]
+  },
+  {
+   "title": "Ukraine Russian Drone Attack Sinks: What 3 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/ukraine-russian-drone-attack-sinks-what.html",
+   "time": 1791235169,
+   "links": [
+    "https://www.aljazeera.com/news/2026/10/5/ukraine-says-russian-drone-attack-sinks-ship-in-romanian-waters?traffic_source=rss",
+    "https://www.dw.com/en/ukraine-says-russian-drones-behind-turkish-ship-sinking/a-79552387?maca=en-rss-en-all-1573-xml-mrss",
+    "https://www.euronews.com/2026/10/05/drone-reportedly-hits-ship-in-black-sea-killing-two-and-injuring-11"
+   ],
+   "source_titles": [
+    "Ukraine says Russian drone attack sinks ship in Romanian waters",
+    "Ukraine says Russian drones behind Turkish ship sinking",
+    "Turkish grain ship sinks in Black Sea after deadly drone attack"
+   ],
+   "topic": [
+    "attack",
+    "behind",
+    "black",
+    "deadly",
+    "drone",
+    "drones",
+    "grain",
+    "romanian",
+    "russian",
+    "sea",
+    "ship",
+    "sinking",
+    "sinks",
+    "turkish",
+    "ukraine",
+    "waters"
+   ]
   }
  ],
- "next_slot": 1791221439.308999
+ "next_slot": 1791225039.308999
 }
