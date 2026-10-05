@@ -1749,7 +1749,47 @@
     "seeks",
     "wins"
    ]
+  },
+  {
+   "title": "California Woman Accused Spying: What 6 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/california-woman-accused-spying-what-6.html",
+   "time": 1791179840,
+   "links": [
+    "https://www.theguardian.com/world/2026/oct/05/california-woman-arrested-and-accused-of-spying-on-taiwan-presidents-son-for-china",
+    "https://www.aljazeera.com/news/2026/10/5/fbi-arrests-chinese-foreign-agent-for-spying-on-taiwan-presidents-son?traffic_source=rss",
+    "https://www.dw.com/en/us-fbi-arrests-woman-accused-of-spying-for-china/a-79541849?maca=en-rss-en-all-1573-xml-mrss",
+    "https://www.japantimes.co.jp/news/2026/10/05/world/us-taiwan-china-california-spy/",
+    "https://www.straitstimes.com/world/united-states/us-accuses-california-woman-of-spying-for-china-surveilling-taiwan-leaders-son",
+    "https://www.cbsnews.com/news/chinese-agent-arrested-lax-taiwan-president-son/"
+   ],
+   "source_titles": [
+    "California woman arrested and accused of spying on Taiwan president’s son for China",
+    "FBI arrests ‘Chinese foreign agent’ for spying on Taiwan president’s son",
+    "US: FBI arrests woman accused of spying for China",
+    "U.S. accuses California woman of spying for China and surveilling Taiwan leader’s son",
+    "US accuses California woman of spying for China, surveilling Taiwan leader’s son",
+    "FBI arrests woman accused of surveilling Taiwanese president's son for China"
+   ],
+   "topic": [
+    "accused",
+    "accuses",
+    "agent",
+    "arrested",
+    "arrests",
+    "california",
+    "china",
+    "chinese",
+    "fbi",
+    "foreign",
+    "president's",
+    "son",
+    "spying",
+    "surveilling",
+    "taiwan",
+    "taiwanese",
+    "woman"
+   ]
   }
  ],
- "next_slot": 1791163839.308999
+ "next_slot": 1791167439.308999
 }
