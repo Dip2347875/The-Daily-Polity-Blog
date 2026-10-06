@@ -2634,7 +2634,45 @@
     "war",
     "water"
    ]
+  },
+  {
+   "title": "Coalition Ballistic Yemen: What 3 Major News Outlets Report",
+   "url": "https://thedailypolityblog.blogspot.com/2026/10/coalition-ballistic-yemen-what-3-major.html",
+   "time": 1791276903,
+   "links": [
+    "https://www.middleeasteye.net/live-blog/live-blog-update/saudi-led-coalition-claims-destruction-depot-housing-20-ballistic",
+    "https://www.theguardian.com/world/2026/oct/05/yemen-air-campaign-houthis-saudi-led-coalition",
+    "https://news.sky.com/story/yemen-hundreds-of-houthi-targets-attacked-as-saudi-led-coalition-carries-out-air-campaign-13595382"
+   ],
+   "source_titles": [
+    "Saudi-led coalition claims destruction of depot housing 20 ballistic missiles in northern Yemen",
+    "Air campaign against Houthis under way in Yemen, says Saudi-led coalition",
+    "'Hundreds of Houthi targets in Yemen attacked' in air campaign by Saudi-led coalition"
+   ],
+   "topic": [
+    "'hundreds",
+    "against",
+    "air",
+    "attacked'",
+    "ballistic",
+    "campaign",
+    "claims",
+    "coalition",
+    "depot",
+    "destruction",
+    "housing",
+    "houthi",
+    "houthis",
+    "led",
+    "missiles",
+    "northern",
+    "saudi",
+    "targets",
+    "under",
+    "way",
+    "yemen"
+   ]
   }
  ],
- "next_slot": 1791253839.308999
+ "next_slot": 1791257439.308999
 }
